@@ -5,6 +5,10 @@
   "main": "index.js",
   "license": "MIT",
   "private": false,
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aaronpeterson/random-geo-ip.git"
+  },
   "dependencies": {
     "ip-to-int": "^0.3.1",
     "lodash.filter": "^4.6.0",

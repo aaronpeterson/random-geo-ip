@@ -1,0 +1,14 @@
+{
+  "name": "random-geo-ip",
+  "version": "0.1.0",
+  "description": "Random IPs filtered by general location",
+  "main": "index.js",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "ip-to-int": "^0.3.1",
+    "lodash.filter": "^4.6.0",
+    "lodash.random": "^3.2.0",
+    "lodash.sample": "^4.2.1"
+  }
+}
